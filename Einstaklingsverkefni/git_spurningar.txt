@@ -1,3 +1,5 @@
+Arkadius
+
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd
 	cd ~
